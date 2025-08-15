@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vaishnavi Sunnam  
+# 👋 Hi, I'm Vaishnavi Sunnapu
 
 🚀 Aspiring Python Developer | Passionate about Learning & Creating  
 
