@@ -6,7 +6,6 @@
 I’m currently on a journey to master **Python programming** from scratch.  
 This repository is my personal space to store all the programs, exercises, and projects I create during my learning journey.  
 
-📅 **Learning Python:** Day 5 of 100  
 📍 Based in: India  
 
 ## 🛠 Skills I'm Building  
